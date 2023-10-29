@@ -62,6 +62,8 @@ float evaluarPolinomio(TNodo* p, int grado,float x);
 
 
 int main(){
+    cout << "Listas simples y circulares simples" << endl;
+    system("Pause");
     int op;
     do{
         system("cls");
